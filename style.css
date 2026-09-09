@@ -1,0 +1,17 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#box {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.path {
+  position: absolute;
+  border: 1px solid skyblue;
+}
